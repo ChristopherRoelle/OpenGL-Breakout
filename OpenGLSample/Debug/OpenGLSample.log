@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  game.cpp
+D:\DevEnvironment\Breakout\OpenGLSample\game.cpp(269,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\DevEnvironment\Breakout\OpenGLSample\game.cpp(279,65): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\DevEnvironment\Breakout\OpenGLSample\game.cpp(285,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\DevEnvironment\Breakout\OpenGLSample\game.cpp(286,79): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\DevEnvironment\Breakout\OpenGLSample\game.cpp(572,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLSample.vcxproj -> D:\DevEnvironment\Breakout\Debug\MyScene.exe
